@@ -24,7 +24,7 @@
                        sparkle:os="macos"
                        length="0"
                        type="application/octet-stream"
-                       sparkle:edSignature="test_signature_for_1.0.0"/>
+                       />
         </item>
     </channel>
 </rss>
