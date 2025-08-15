@@ -5,7 +5,7 @@
         <description>Most recent updates to Typely</description>
         <language>en</language>
         
-        <item>
+<!--         <item>
             <title>Version 1.0.1</title>
             <description>
                 <![CDATA[
@@ -24,7 +24,7 @@
                        length="0"
                        type="application/octet-stream"
                        sparkle:edSignature="test_signature_for_1.0.1"/>
-        </item>
+        </item> -->
         
         <item>
             <title>Version 1.0.0</title>
