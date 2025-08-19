@@ -6,7 +6,7 @@
         <language>en</language>
 
        <item>
-            <title>Version 1.0.2</title>
+            <title>Version 1.0.4</title>
             <description>
                 <![CDATA[
                     <h2>What's New in Version 1.0.2</h2>
@@ -25,7 +25,8 @@
                 sparkle:os="macos"
                 length="0"
                 type="application/octet-stream"
-                sparkle:edSignature="9URRzaQ8UEZiy2VM0zXTZ+xQZY9dvlchIkf4zSLjF9QNIEYaBho1IuqGzanI7osUyj7N1W34J5lYtoultOwmDA=="/>
+                sparkle:edSignature="9URRzaQ8UEZiy2VM0zXTZ+xQZY9dvlchIkf4zSLjF9QNIEYaBho1IuqGzanI7osUyj7N1W34J5lYtoultOwmDA=="
+                   length="1623481"/>
         </item>
         <item>
             <title>Version 1.0.2</title>
