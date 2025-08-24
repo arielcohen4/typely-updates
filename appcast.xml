@@ -4,7 +4,27 @@
         <title>Typely for macOS</title>
         <description>Most recent updates to Typely</description>
         <language>en</language>
-                 <item>
+        <item>
+            <title>Version 1.0.6</title>
+            <description>
+                <![CDATA[
+                    <h2>What's New in Version 1.0.6</h2>
+                    <ul>
+                        <li>1.0.6</li>
+                    </ul>
+                ]]>
+            </description>
+            <pubDate>Mon, 24 Aug 2025 11:50:22 +0000</pubDate>
+            <enclosure 
+                url="https://github.com/arielcohen4/typely-updates/releases/download/1.0.6/Typely-1.0.6.dmg"
+                sparkle:version="106"
+                sparkle:shortVersionString="1.0.6"
+                sparkle:os="macos"
+                type="application/octet-stream"
+                sparkle:edSignature="sL2p76X6Y81oVAFHQTe09h2coEM4N3pBYHZqqQ/mUC3pRUQd+8nlhVBm4fne6R75pv3T27+kiiyIROr4fpL0Dw=="
+                length="2804945"/>
+        </item>
+        <item>
             <title>Version 1.0.5</title>
             <description>
                 <![CDATA[
